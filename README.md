@@ -1,3 +1,13 @@
+<p align="left">
+  <a href="https://devicelab.vn/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://devicelab.vn/wp-content/themes/devicelab/assets/img/logo-devicelab-on-dark.svg?v=3.45.0">
+      <source media="(prefers-color-scheme: light)" srcset="https://devicelab.vn/wp-content/themes/devicelab/assets/img/logo-devicelab-on-light.svg?v=3.45.0">
+      <img alt="DeviceLab - Industrial IoT Hardware & Embedded R&D" src="https://devicelab.vn/wp-content/themes/devicelab/assets/img/logo-devicelab-on-light.svg?v=3.45.0" height="38">
+    </picture>
+  </a>
+</p>
+
 # DL-ENV10 Environmental Datalogger: Thông Tư 10/2021/TT-BTNMT Telemetry Spec, sFTP Backfill & Modbus Register Map
 
 > **Tài liệu đặc tả kỹ thuật mở (Open Technical Specification): Cấu trúc gói tin `.txt` chuẩn Điều 39 Thông tư 10/2021/TT-BTNMT & Nghị định 53/2024/NĐ-CP, quy trình truyền dẫn sFTP/FTPS có bộ đệm Store-and-Forward và Bảng thanh ghi Modbus TCP/RTU của thiết bị Datalogger quan trắc môi trường `DL-ENV10`.**
